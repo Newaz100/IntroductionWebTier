@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A06A73-6596-4F03-9A1F-F396EE8D8EE5}|webAPIDifferentSection\\webAPIDifferentSection.csproj|C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\webapidifferentsection\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A06A73-6596-4F03-9A1F-F396EE8D8EE5}|webAPIDifferentSection\\webAPIDifferentSection.csproj|solutionrelative:webapidifferentsection\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE07246D-EE78-47A9-9CE0-69502AD41FB5}|BLL\\BLL.csproj|C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE07246D-EE78-47A9-9CE0-69502AD41FB5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE07246D-EE78-47A9-9CE0-69502AD41FB5}|BLL\\BLL.csproj|c:\\users\\yeasin newaz\\desktop\\9th semester\\advanced programming with .net\\final term\\lab\\webapidifferentsection\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE07246D-EE78-47A9-9CE0-69502AD41FB5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|c:\\users\\yeasin newaz\\desktop\\9th semester\\advanced programming with .net\\final term\\lab\\webapidifferentsection\\dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\dal\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\dal\\ef\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|c:\\users\\yeasin newaz\\desktop\\9th semester\\advanced programming with .net\\final term\\lab\\webapidifferentsection\\dal\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE07246D-EE78-47A9-9CE0-69502AD41FB5}|BLL\\BLL.csproj|C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE07246D-EE78-47A9-9CE0-69502AD41FB5}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F5FF77-4423-4AED-8447-9BDAD06DEB55}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\UMSContext.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\EF\\UMSContext.cs",
+              "RelativeToolTip": "DAL\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:10:17.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T06:33:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:17:28.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\webAPIDifferentSection\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "webAPIDifferentSection\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\webAPIDifferentSection\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "webAPIDifferentSection\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:06:54.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\EF\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Student.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\EF\\Student.cs",
+              "RelativeToolTip": "DAL\\EF\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:37:54.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\EF\\Course.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Course.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\EF\\Course.cs",
+              "RelativeToolTip": "DAL\\EF\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:38:04.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\Repos\\CourseRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CourseRepo.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\Repos\\CourseRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CourseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:47:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:41:43.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:57:16.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Yeasin Newaz\\Desktop\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL TERM\\LAB\\webAPIDifferentSection\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:56:26.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

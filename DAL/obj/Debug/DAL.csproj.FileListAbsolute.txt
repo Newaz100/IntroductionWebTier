@@ -1,0 +1,14 @@
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\bin\Debug\DAL.dll
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\bin\Debug\DAL.pdb
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\obj\Debug\DAL.dll
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\obj\Debug\DAL.pdb
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\bin\Debug\DAL.dll.config
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\obj\Debug\DAL.Migrations.IntitDb.resources
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

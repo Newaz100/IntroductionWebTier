@@ -1,0 +1,14 @@
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\bin\Debug\BLL.dll
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\bin\Debug\BLL.pdb
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\bin\Debug\DAL.dll
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\bin\Debug\DAL.pdb
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\obj\Debug\BLL.dll
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\obj\Debug\BLL.pdb
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\bin\Debug\DAL.dll.config
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Yeasin Newaz\Desktop\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL TERM\LAB\webAPIDifferentSection\BLL\bin\Debug\EntityFramework.xml
