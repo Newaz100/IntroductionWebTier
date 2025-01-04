@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BLL.EF
+namespace BLL.Services
 {
     public class StudentService
     {
